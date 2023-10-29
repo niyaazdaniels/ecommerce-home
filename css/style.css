@@ -1,0 +1,57 @@
+*{
+    border: 0;
+    padding: 0;
+}
+.bob-logo{
+    width: 200px;
+}
+.head-section{
+    background-color:rgba(255, 251, 240, 1);
+}
+.bob-navbar{
+    background-color: 0;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+#text-style{
+    color: rgba(250, 190, 76, 1);
+    font-size: 80px;
+}
+.text-style2{
+    font-size: 80px;
+}
+.bob-catagory, .text-style2{
+    color: rgba(54, 57, 88, 1);
+}
+.bob-card-img{
+    padding: 5%;
+    background-color: rgba(241, 241, 241, 1);
+    margin: 4% auto; 
+}
+.bob-info{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+.bob-card-border, .bob-card-img{
+    border-radius: 1em;
+}
+.price-text-style{
+    color: rgba(250, 190, 76, 1);
+    font-weight: bold;
+}
+.bob-card-footer, .bob-card-border{
+    background-color: white;
+    border: 0;
+}
+.bob-btn{
+    background-color: rgb(146, 103, 38);
+    color: white;
+}
+.footer-section{
+    background-color: hsla(40, 66%, 35%, 0.486);
+    padding: 3% 1% 1% 1%;
+}
+/* checkout page */
